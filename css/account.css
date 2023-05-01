@@ -1,0 +1,96 @@
+:root {
+    --nw-width: 600px;
+    --radius: 15px;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+a {
+    color: #C8C8C8;
+    display: flex;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #FFF;
+}
+
+body {
+    align-items: center;
+    background: #646464;
+    color: #C8C8C8;
+    display: flex;
+    font-family: helvetica;
+    justify-content: center;
+    min-height: 100vh;
+}
+
+h1 {
+    font-size: 30px;
+    margin-bottom: 2rem;
+    margin-top: auto;
+}
+
+.logo {
+    content:    url(../assets/logo_03.png);
+    float:      right;
+    width:      100px;
+}
+
+.nw {
+    background: #7D7D7D;
+    border-radius: var(--radius);
+    box-shadow: 0 15px 30px -15px black;
+    padding: 2rem;
+    width: var(--nw-width);
+}
+
+.nw form > * {
+    margin-bottom: 1rem;
+}
+
+.nw form button {
+    background-color: #646464;
+    border: none;
+    border-radius: var(--radius);
+    color: #C8C8C8;
+    cursor: pointer;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 15px 45px;
+    transition: 0.2s;
+}
+
+.nw form button:active {
+    scale: 0.95;
+}
+
+.nw form .form-checkbox-item {
+    align-items: center;
+    display: flex;
+    gap: 0.5rem;
+}
+
+.nw .form-element {
+    background-color: #f4f4f425;
+    border: none;
+    border-radius: var(--radius);
+    color: #FFF;
+    font-size: 20px;
+    padding: 1rem 1.5rem;
+    width: 100%;
+}
+
+.nw .gitHub {
+    display: inline;
+    font-size: 35px;
+    margin-left: 0.5rem;
+}
+
+.nw input[type=checkbox] {
+    accent-color: #64E164;
+    height: 20px;
+    width: 20px;
+}
