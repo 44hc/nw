@@ -34,9 +34,9 @@ h1 {
 }
 
 .logo {
-    content:    url(../assets/logo_03.png);
-    float:      right;
-    width:      100px;
+    content: url(../assets/logo_03.png);
+    float: right;
+    width: 100px;
 }
 
 .nw {
