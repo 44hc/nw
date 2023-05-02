@@ -20,6 +20,8 @@ a:hover {
 body {
     align-items: center;
     background: #646464;
+    background-image: url("../assets/background.png");
+    background-size: 1920px;
     color: #C8C8C8;
     display: flex;
     font-family: helvetica;
