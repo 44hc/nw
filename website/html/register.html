@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8"/>
+    <meta http-equiv="X-UA-Compatible" content="ie=edge"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <link rel="stylesheet" href="../css/account.css">
+    <title>NW - Register</title>
+</head>
+
+<body>
+    <div class="nw">
+        <div class="logo"></div>
+        <div class="column">
+            <h1>Register<a href="todo.html">To-Do</a></h1>
+            <form>
+                <div class="form-item">
+                    <input type="text" class="form-element" placeholder="E-Mail" oninvalid="this.setCustomValidity('E-Mail required')" oninput="setCustomValidity('')" required>
+                </div>
+                <div class="form-item">
+                    <input type="password" class="form-element" placeholder="Password" oninvalid="this.setCustomValidity('Password required')" oninput="setCustomValidity('')" required>
+                </div>
+                <div class="form-item">
+                    <input type="password" class="form-element" placeholder="Repeat password" oninvalid="this.setCustomValidity('Password required')" oninput="setCustomValidity('')" required>
+                </div>
+                <div class="flex">
+                    <a href="login.html">
+                        <button type="submit">Register
+                    </a>
+                </div>
+            </form>
+            <a href="login.html">Login</a>
+        </div>
+    </div>
+</body>
+
+</html>
