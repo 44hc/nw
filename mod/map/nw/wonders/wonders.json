@@ -1,0 +1,25 @@
+{
+	wonders:
+	[
+		{
+			Name: "Panama Canal",
+			x: 1108,
+			y: 1522,
+			SinceYear: 1914,
+			UntilYear: 100000,
+			Image: "canal.png",
+			Wiki: "Panama_canal"
+		},
+		{
+			Name: "Suez Canal",
+			x: 2484,
+			y: 1233,
+			SinceYear: 1869,
+			UntilYear: 100000,
+			Image: "canal.png",
+			Wiki: "Suez_canal"
+		},
+	],
+	
+	name: Earth
+}

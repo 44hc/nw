@@ -1,0 +1,18 @@
+{
+	Map: [
+		{
+			MapName: "NW",
+			Author: "HC",
+			BackgroundName: "nw",
+			ContinentsPackage: "nw",
+			RegionsPackage: "nw",
+			NumberOfProvinces: 4275,
+			MapScale: 3,
+			WorldMap: true,
+			Scenario: "1660408618289otefnllb",
+			Wiki: ""
+		},
+	],
+	
+	Age_of_Civilizations: Map
+}

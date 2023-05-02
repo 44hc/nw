@@ -1,0 +1,491 @@
+{
+	Overlay: [
+		{
+			Name: "over0",
+			Scale: 0.5,
+		},
+		{
+			Name: "over1",
+			Scale: 0.65,
+		},
+		{
+			Name: "over1",
+			Scale: 0.5,
+		},
+		{
+			Name: "over1",
+			Scale: 0.35,
+		},
+		{
+			Name: "over2",
+			Scale: 0.5,
+		},
+		{
+			Name: "over3",
+			Scale: 0.5,
+		},
+		{
+			Name: "over4",
+			Scale: 0.5,
+		},
+		{
+			Name: "over5",
+			Scale: 10.0,
+		},
+		{
+			Name: "over6",
+			Scale: 1.0,
+		},
+		{
+			Name: "over7",
+			Scale: 1.0,
+		},
+		{
+			Name: "over8",
+			Scale: 0.5,
+		},
+		{
+			Name: "over9",
+			Scale: 0.5,
+		},
+		{
+			Name: "over10",
+			Scale: 0.5,
+		},
+		{
+			Name: "over11",
+			Scale: 0.5,
+		},
+		{
+			Name: "over12",
+			Scale: 0.5,
+		},
+		{
+			Name: "over13",
+			Scale: 1.0,
+		},
+		{
+			Name: "over14",
+			Scale: 0.5,
+		},
+		{
+			Name: "over15",
+			Scale: 0.5,
+		},
+		{
+			Name: "over16",
+			Scale: 0.5,
+		},
+		{
+			Name: "over17",
+			Scale: 0.5,
+		},
+		{
+			Name: "over18",
+			Scale: 0.5,
+		},
+		{
+			Name: "over19",
+			Scale: 0.5,
+		},
+		{
+			Name: "over20",
+			Scale: 0.5,
+		},
+		{
+			Name: "over21",
+			Scale: 0.5,
+		},
+		{
+			Name: "over22",
+			Scale: 0.75,
+		},
+		{
+			Name: "over23",
+			Scale: 1.0,
+		},
+		{
+			Name: "over24",
+			Scale: 0.75,
+		},
+		{
+			Name: "over25",
+			Scale: 0.5,
+		},
+		{
+			Name: "over26",
+			Scale: 0.5,
+		},
+		{
+			Name: "over27",
+			Scale: 0.5,
+		},
+		{
+			Name: "over28",
+			Scale: 0.8,
+		},
+		{
+			Name: "over29",
+			Scale: 0.5,
+		},
+		{
+			Name: "over30",
+			Scale: 0.8,
+		},
+		{
+			Name: "over31",
+			Scale: 0.5,
+		},
+		{
+			Name: "over32",
+			Scale: 0.5,
+		},
+		{
+			Name: "over33",
+			Scale: 0.5,
+		},
+		{
+			Name: "over34",
+			Scale: 0.5,
+		},
+		{
+			Name: "over35",
+			Scale: 0.6,
+		},
+		{
+			Name: "over36",
+			Scale: 0.5,
+		},
+		{
+			Name: "over37",
+			Scale: 0.5,
+		},
+		{
+			Name: "over38",
+			Scale: 0.5,
+		},
+		{
+			Name: "over39",
+			Scale: 0.75,
+		},
+		{
+			Name: "over40",
+			Scale: 0.6,
+		},
+		{
+			Name: "over41",
+			Scale: 0.5,
+		},
+		{
+			Name: "over42",
+			Scale: 0.5,
+		},
+		{
+			Name: "over43",
+			Scale: 0.5,
+		},
+		{
+			Name: "over44",
+			Scale: 0.5,
+		},
+		{
+			Name: "over45",
+			Scale: 0.5,
+		},
+		{
+			Name: "over46",
+			Scale: 0.5,
+		},
+		{
+			Name: "over47",
+			Scale: 0.5,
+		},
+		{
+			Name: "over48",
+			Scale: 0.5,
+		},
+		{
+			Name: "over49",
+			Scale: 0.5,
+		},
+		{
+			Name: "over50",
+			Scale: 0.5,
+		},
+		{
+			Name: "over51",
+			Scale: 0.5,
+		},
+		{
+			Name: "over52",
+			Scale: 0.5,
+		},
+		{
+			Name: "over53",
+			Scale: 0.5,
+		},
+		{
+			Name: "over54",
+			Scale: 0.5,
+		},
+		{
+			Name: "over55",
+			Scale: 0.5,
+		},
+		{
+			Name: "over56",
+			Scale: 0.5,
+		},
+		{
+			Name: "over57",
+			Scale: 0.5,
+		},
+		{
+			Name: "over58",
+			Scale: 0.5,
+		},
+		{
+			Name: "over59",
+			Scale: 0.5,
+		},
+		{
+			Name: "over60",
+			Scale: 0.5,
+		},
+		{
+			Name: "over61",
+			Scale: 0.4,
+		},
+		{
+			Name: "over62",
+			Scale: 0.75,
+		},
+		{
+			Name: "over63",
+			Scale: 0.5,
+		},
+		{
+			Name: "over64",
+			Scale: 0.5,
+		},
+		{
+			Name: "over65",
+			Scale: 0.4,
+		},
+		{
+			Name: "over66",
+			Scale: 0.4,
+		},
+		{
+			Name: "over67",
+			Scale: 0.5,
+		},
+		{
+			Name: "over68",
+			Scale: 0.5,
+		},
+		{
+			Name: "over69",
+			Scale: 0.4,
+		},
+		{
+			Name: "over70",
+			Scale: 0.4,
+		},
+		{
+			Name: "over71",
+			Scale: 0.6,
+		},
+		{
+			Name: "over72",
+			Scale: 0.4,
+		},
+		{
+			Name: "over73",
+			Scale: 0.5,
+		},
+		{
+			Name: "over74",
+			Scale: 0.5,
+		},
+		{
+			Name: "over75",
+			Scale: 0.8,
+		},
+		{
+			Name: "over76",
+			Scale: 0.4,
+		},
+		{
+			Name: "over77",
+			Scale: 0.35,
+		},
+		{
+			Name: "over78",
+			Scale: 0.4,
+		},
+		{
+			Name: "over79",
+			Scale: 0.6,
+		},
+		{
+			Name: "over80",
+			Scale: 0.5,
+		},
+		{
+			Name: "over81",
+			Scale: 0.4,
+		},
+		{
+			Name: "over82",
+			Scale: 0.4,
+		},
+		{
+			Name: "over83",
+			Scale: 0.5,
+		},
+		{
+			Name: "over84",
+			Scale: 0.6,
+		},
+		{
+			Name: "over85",
+			Scale: 0.5,
+		},
+		{
+			Name: "over86",
+			Scale: 0.4,
+		},
+		{
+			Name: "over87",
+			Scale: 0.4,
+		},
+		{
+			Name: "over88",
+			Scale: 0.4,
+		},
+		{
+			Name: "over89",
+			Scale: 0.4,
+		},
+		{
+			Name: "over90",
+			Scale: 0.4,
+		},
+		{
+			Name: "over91",
+			Scale: 0.4,
+		},
+		{
+			Name: "over92",
+			Scale: 0.5,
+		},
+		{
+			Name: "over93",
+			Scale: 0.4,
+		},
+		{
+			Name: "over94",
+			Scale: 0.4,
+		},
+		{
+			Name: "over95",
+			Scale: 0.4,
+		},
+		{
+			Name: "over96",
+			Scale: 0.4,
+		},
+		{
+			Name: "over97",
+			Scale: 0.4,
+		},
+		{
+			Name: "over98",
+			Scale: 0.4,
+		},
+		{
+			Name: "over99",
+			Scale: 0.4,
+		},
+		{
+			Name: "over99",
+			Scale: 0.6,
+		},
+		{
+			Name: "over100",
+			Scale: 0.6,
+		},
+
+		{
+			Name: "over101",
+			Scale: 0.4,
+		},
+		{
+			Name: "over102",
+			Scale: 0.6,
+		},
+		{
+			Name: "over103",
+			Scale: 0.5,
+		},
+		{
+			Name: "over104",
+			Scale: 0.4,
+		},
+		{
+			Name: "over105",
+			Scale: 0.5,
+		},
+		{
+			Name: "over106",
+			Scale: 0.6,
+		},
+		{
+			Name: "over107",
+			Scale: 0.6,
+		},
+		{
+			Name: "over108",
+			Scale: 0.6,
+		},
+		{
+			Name: "over109",
+			Scale: 0.6,
+		},
+		{
+			Name: "over110",
+			Scale: 0.6,
+		},
+		{
+			Name: "over111",
+			Scale: 0.6,
+		},
+		{
+			Name: "over112",
+			Scale: 0.6,
+		},
+		{
+			Name: "over113",
+			Scale: 0.6,
+		},
+		{
+			Name: "over113",
+			Scale: 0.6,
+		},
+		{
+			Name: "over114",
+			Scale: 0.5,
+		},
+		{
+			Name: "over115",
+			Scale: 0.5,
+		},
+		{
+			Name: "over116",
+			Scale: 0.5,
+		},
+	],
+	
+	Age_of_Civilizations: Overlays
+}

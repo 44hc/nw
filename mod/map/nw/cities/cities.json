@@ -1,0 +1,1152 @@
+{
+	cities:
+	[
+		{
+			Name: "Amsterdam",
+			x: 2147,
+			y: 867,
+		},
+		{
+			Name: "Antananarivo",
+			x: 2666,
+			y: 1898
+		},
+		{
+			Name: "Ankara",
+			x: 2488,
+			y: 1081
+		},
+		{
+			Name: "Baghdad",
+			x: 2627,
+			y: 1180
+		},
+		{
+			Name: "Andorra la Vella",
+			x: 2105,
+			y: 1039
+		},
+		{
+			Name: "Beijing",
+			x: 3513,
+			y: 1085
+		},
+		{
+			Name: "Belgrade",
+			x: 2337,
+			y: 1004
+		},
+		{
+			Name: "Belmopan",
+			x: 995,
+			y: 1416
+		},
+		{
+			Name: "Berlin",
+			x: 2252,
+			y: 867
+		},
+		{
+			Name: "Bogotá",
+			x: 1176,
+			y: 1581
+		},
+		{
+			Name: "Brasília",
+			x: 1496,
+			y: 1854
+		},
+		{
+			Name: "Brazzaville",
+			x: 2271,
+			y: 1701
+		},
+		{
+			Name: "Brussels",
+			x: 2141,
+			y: 898
+		},
+		{
+			Name: "Budapest",
+			x: 2320,
+			y: 958
+		},
+		{
+			Name: "Cairo",
+			x: 2470,
+			y: 1231
+		},
+		{
+			Name: "Damascus",
+			x: 2531,
+			y: 1178
+		},
+		{
+			Name: "Guatemala City",
+			x: 974,
+			y: 1451
+		},
+		{
+			Name: "Hanoi",
+			x: 3383,
+			y: 1363
+		},
+		{
+			Name: "Harare",
+			x: 2465,
+			y: 1883
+		},
+		{
+			Name: "Tallinn",
+			x: 2391,
+			y: 727
+		},
+		{
+			Name: "Helsinki",
+			x: 2393,
+			y: 709
+		},
+		{
+			Name: "Riga",
+			x: 2382,
+			y: 777
+		},
+		{
+			Name: "Cardiff",
+			x: 2047,
+			y: 883
+		},
+		{
+			Name: "Belfast",
+			x: 2016,
+			y: 826
+		},
+		{
+			Name: "Dublin",
+			x: 2013,
+			y: 850
+		},
+		{
+			Name: "Yerevan",
+			x: 2630,
+			y: 1077
+		},
+		{
+			Name: "Baku",
+			x: 2698,
+			y: 1073
+		},
+		{
+			Name: "Kiev",
+			x: 2458,
+			y: 906
+		},
+		{
+			Name: "Kinshasa",
+			x: 2272,
+			y: 1705
+		},
+		{
+			Name: "La Paz",
+			x: 1248,
+			y: 1864
+		},
+		{
+			Name: "Lisbon",
+			x: 1978,
+			y: 1099
+		},
+		{
+			Name: "London",
+			x: 2085,
+			y: 881
+		},
+		{
+			Name: "Lusaka",
+			x: 2431,
+			y: 1849
+		},
+		{
+			Name: "Madrid",
+			x: 2040,
+			y: 1072
+		},
+		{
+			Name: "Managua",
+			x: 1027,
+			y: 1484
+		},
+		{
+			Name: "Mexico",
+			x: 867,
+			y: 1386
+		},
+		{
+			Name: "Minsk",
+			x: 2424,
+			y: 840
+		},
+		{
+			Name: "Moscow",
+			x: 2547,
+			y: 802
+		},
+		{
+			Name: "Oslo",
+			x: 2221,
+			y: 718
+		},
+		{
+			Name: "Ottawa",
+			x: 1155,
+			y: 998
+		},
+		{
+			Name: "Paris",
+			x: 2117,
+			y: 934
+		},
+		{
+			Name: "Prague",
+			x: 2264,
+			y: 912
+		},
+		{
+			Name: "Pyongyang",
+			x: 3628,
+			y: 1099
+		},
+		{
+			Name: "Riyadh",
+			x: 2657,
+			y: 1309
+		},
+		{
+			Name: "Rome",
+			x: 2240,
+			y: 1050
+		},
+		{
+			Name: "Santiago",
+			x: 1215,
+			y: 2111
+		},
+		{
+			Name: "San Salvador",
+			x: 990,
+			y: 1463
+		},
+		{
+			Name: "Seoul",
+			x: 3643,
+			y: 1122
+		},
+		{
+			Name: "Sofia",
+			x: 2373,
+			y: 1038
+		},
+		{
+			Name: "Stockholm",
+			x: 2310,
+			y: 729
+		},
+		{
+			Name: "Quito",
+			x: 1123,
+			y: 1645
+		},
+		{
+			Name: "Tegucigalpa",
+			x: 1014,
+			y: 1458
+		},
+		{
+			Name: "Tokyo",
+			x: 3799,
+			y: 1151
+		},
+		{
+			Name: "Vienna",
+			x: 2287,
+			y: 946
+		},
+		{
+			Name: "Vilnius",
+			x: 2396,
+			y: 824
+		},
+		{
+			Name: "Warsaw",
+			x: 2342,
+			y: 871
+		},
+		{
+			Name: "Washington",
+			x: 1138,
+			y: 1105
+		},
+		{
+			Name: "Yaoundé",
+			x: 2226,
+			y: 1593
+		},
+		{
+			Name: "San José",
+			x: 1053,
+			y: 1512
+		},
+		{
+			Name: "Panama City",
+			x: 1111,
+			y: 1523
+		},
+		{
+			Name: "Asunción",
+			x: 1378,
+			y: 1989
+		},
+		{
+			Name: "Edynburg",
+			x: 2052,
+			y: 799
+		},
+		{
+			Name: "Montevideo",
+			x: 1394,
+			y: 2134
+		},
+		{
+			Name: "Buenos Aires",
+			x: 1366,
+			y: 2130
+		},
+		{
+			Name: "Paramaribo",
+			x: 1407,
+			y: 1567
+		},
+		{
+			Name: "Georgetown",
+			x: 1370,
+			y: 1555
+		},
+		{
+			Name: "Caracas",
+			x: 1263,
+			y: 1505
+		},
+		{
+			Name: "Port-au-Prince",
+			x: 1196,
+			y: 1397
+		},
+		{
+			Name: "Santo Domingo",
+			x: 1229,
+			y: 1396
+		},
+		{
+			Name: "Havana",
+			x: 1074,
+			y: 1338
+		},
+		{
+			Name: "Kingston",
+			x: 1144,
+			y: 1404
+		},
+		{
+			Name: "San Juan",
+			x: 1273,
+			y: 1400
+		},
+		{
+			Name: "Kathmandu",
+			x: 3130,
+			y: 1268
+		},
+		{
+			Name: "Naypyidaw",
+			x: 3262,
+			y: 1378
+		},
+		{
+			Name: "Pretoria",
+			x: 2430,
+			y: 1996
+		},
+		{
+			Name: "Maputo",
+			x: 2482,
+			y: 2000
+		},
+		{
+			Name: "Lilongwe",
+			x: 2498,
+			y: 1830
+		},
+		{
+			Name: "Luanda",
+			x: 2248,
+			y: 1761
+		},
+		{
+			Name: "Khartoum",
+			x: 2487,
+			y: 1437
+		},
+		{
+			Name: "Abuja",
+			x: 2175,
+			y: 1524
+		},
+		{
+			Name: "Porto-Novo",
+			x: 2116,
+			y: 1557
+		},
+		{
+			Name: "Lomé",
+			x: 2098,
+			y: 1562
+		},
+		{
+			Name: "Accra",
+			x: 2083,
+			y: 1566
+		},
+		{
+			Name: "Yamoussoukro",
+			x: 2020,
+			y: 1553
+		},
+		{
+			Name: "Monrovia",
+			x: 1956,
+			y: 1559
+		},
+		{
+			Name: "Freetown",
+			x: 1924,
+			y: 1531
+		},
+		{
+			Name: "Conakry",
+			x: 1919,
+			y: 1516
+		},
+		{
+			Name: "Bissau",
+			x: 1894,
+			y: 1484
+		},
+		{
+			Name: "Dakar",
+			x: 1875,
+			y: 1446
+		},
+		{
+			Name: "Banjul",
+			x: 1884,
+			y: 1463
+		},
+		{
+			Name: "Bamako",
+			x: 1988,
+			y: 1475
+		},
+		{
+			Name: "Niamey",
+			x: 2112,
+			y: 1465
+		},
+		{
+			Name: "Ouagadougou",
+			x: 2067,
+			y: 1481
+		},
+		{
+			Name: "Nouakchott",
+			x: 1891,
+			y: 1401
+		},
+		{
+			Name: "Rabat",
+			x: 2007,
+			y: 1171
+		},
+		{
+			Name: "Tunis",
+			x: 2212,
+			y: 1130
+		},
+		{
+			Name: "Valletta",
+			x: 2261,
+			y: 1141
+		},
+		{
+			Name: "Athens",
+			x: 2378,
+			y: 1111
+		},
+		{
+			Name: "Tirana",
+			x: 2332,
+			y: 1061
+		},
+		{
+			Name: "Skopje",
+			x: 2350,
+			y: 1048
+		},
+		{
+			Name: "Sarajevo",
+			x: 2313,
+			y: 1019
+		},
+		{
+			Name: "Podgorica",
+			x: 2323,
+			y: 1042
+		},
+		{
+			Name: "Zagreb",
+			x: 2283,
+			y: 987
+		},
+		{
+			Name: "Chisinau",
+			x: 2440,
+			y: 966
+		},
+		{
+			Name: "Bucharest",
+			x: 2407,
+			y: 1010
+		},
+		{
+			Name: "Luxembourg City",
+			x: 2162,
+			y: 921
+		},
+		{
+			Name: "Tbilisi",
+			x: 2635,
+			y: 1053
+		},
+		{
+			Name: "Nicosia",
+			x: 2496,
+			y: 1156
+		},
+		{
+			Name: "Nicosia",
+			x: 2498,
+			y: 1154
+		},
+		{
+			Name: "Lima",
+			x: 1140,
+			y: 1801
+		},
+		{
+			Name: "Reykjavík",
+			x: 1820,
+			y: 626
+		},
+		{
+			Name: "Muscat",
+			x: 2801,
+			y: 1326
+		},
+		{
+			Name: "Kabul",
+			x: 2932,
+			y: 1167
+		},
+		{
+			Name: "Ashgabat",
+			x: 2799,
+			y: 1114
+		},
+		{
+			Name: "Tehran",
+			x: 2714,
+			y: 1150
+		},
+		{
+			Name: "Dushanbe",
+			x: 2928,
+			y: 1104
+		},
+		{
+			Name: "Tashkent",
+			x: 2933,
+			y: 1059
+		},
+		{
+			Name: "Astana",
+			x: 2960,
+			y: 889
+		},
+		{
+			Name: "Bishkek",
+			x: 2998,
+			y: 1033
+		},
+		{
+			Name: "Islamabad",
+			x: 2980,
+			y: 1180
+		},
+		{
+			Name: "Dhaka",
+			x: 3191,
+			y: 1324
+		},
+		{
+			Name: "Thimphu",
+			x: 3184,
+			y: 1270
+		},
+		{
+			Name: "Phnom Penh",
+			x: 3371,
+			y: 1491
+		},
+		{
+			Name: "Bangkok",
+			x: 3317,
+			y: 1461
+		},
+		{
+			Name: "Vientiane",
+			x: 3343,
+			y: 1404
+		},
+		{
+			Name: "Manila",
+			x: 3569,
+			y: 1448
+		},
+		{
+			Name: "Nuuk",
+			x: 1456,
+			y: 628
+		},
+		{
+			Name: "Praia",
+			x: 1792,
+			y: 1441
+		},
+		{
+			Name: "Ulaanbaatar",
+			x: 3395,
+			y: 949
+		},
+		{
+			Name: "Wellington",
+			x: 4225,
+			y: 2240
+		},
+		{
+			Name: "Canberra",
+			x: 3910,
+			y: 2142
+		},
+		{
+			Name: "New Delhi",
+			x: 3030,
+			y: 1255
+		},
+		{
+			Name: "Sana'a",
+			x: 2625,
+			y: 1436
+		},
+		{
+			Name: "Algiers",
+			x: 2126,
+			y: 1133
+		},
+		{
+			Name: "Tripoli",
+			x: 2246,
+			y: 1192
+		},
+		{
+			Name: "Ljubljana",
+			x: 2265,
+			y: 983
+		},
+		{
+			Name: "Bratislava",
+			x: 2298,
+			y: 947
+		},
+		{
+			Name: "Abu Dhabi",
+			x: 2755,
+			y: 1314
+		},
+		{
+			Name: "Dili",
+			x: 3626,
+			y: 1756
+		},
+		{
+			Name: "Port Moresby",
+			x: 3887,
+			y: 1767
+		},
+		{
+			Name: "Honiara",
+			x: 4048,
+			y: 1771
+		},
+		{
+			Name: "Nouméa",
+			x: 4124,
+			y: 1942
+		},
+		{
+			Name: "Suva",
+			x: 4270,
+			y: 1888
+		},
+		{
+			Name: "Colombo",
+			x: 3067,
+			y: 1553
+		},
+		{
+			Name: "Jakarta",
+			x: 3395,
+			y: 1727
+		},
+		{
+			Name: "Singapore",
+			x: 3358,
+			y: 1625
+		},
+		{
+			Name: "Kuala Lumpur",
+			x: 3331,
+			y: 1601
+		},
+		{
+			Name: "Bandar Seri Begawan",
+			x: 3493,
+			y: 1580
+		},
+		{
+			Name: "Copenhagen",
+			x: 2241,
+			y: 803
+		},
+		{
+			Name: "Asmara",
+			x: 2563,
+			y: 1440
+		},
+		{
+			Name: "Djibouti",
+			x: 2612,
+			y: 1490
+		},
+		{
+			Name: "Libreville",
+			x: 2201,
+			y: 1639
+		},
+		{
+			Name: "Yaoundé",
+			x: 2226,
+			y: 1593
+		},
+		{
+			Name: "Bangui",
+			x: 2311,
+			y: 1585
+		},
+		{
+			Name: "Juba",
+			x: 2472,
+			y: 1579
+		},
+		{
+			Name: "Bujumbura",
+			x: 2446,
+			y: 1691
+		},
+		{
+			Name: "Kigali",
+			x: 2454,
+			y: 1670
+		},
+		{
+			Name: "Dodoma",
+			x: 2524,
+			y: 1725
+		},
+		{
+			Name: "Nairobi",
+			x: 2537,
+			y: 1662
+		},
+		{
+			Name: "Mogadishu",
+			x: 2642,
+			y: 1615
+		},
+		{
+			Name: "Windhoek",
+			x: 2294,
+			y: 1950
+		},
+		{
+			Name: "Sao Tomé",
+			x: 2166,
+			y: 1634
+		},
+		{
+			Name: "Cayenne",
+			x: 1445,
+			y: 1580
+		},
+		{
+			Name: "N'Djamena",
+			x: 2270,
+			y: 1480
+		},
+		{
+			Name: "Addis Ababa",
+			x: 2561,
+			y: 1525
+		},
+		{
+			Name: "Gaborone",
+			x: 2402,
+			y: 1980
+		},
+		{
+			Name: "Nanjing",
+			x: 3542,
+			y: 1204
+		},
+		{
+			Name: "Maseru",
+			x: 2421,
+			y: 2051
+		},
+		{
+			Name: "Malabo",
+			x: 2193,
+			y: 1595
+		},
+		{
+			Name: "Mbabane",
+			x: 2464,
+			y: 2005
+		},
+		{
+			Name: "Cape Town",
+			x: 2311,
+			y: 2121
+		},
+		{
+			Name: "Bloemfontein",
+			x: 2404,
+			y: 2046
+		},
+		{
+			Name: "Nassau",
+			x: 1135,
+			y: 1311
+		},
+		{
+			Name: "Roseau",
+			x: 1334,
+			y: 1439
+		},
+		{
+			Name: "Georgetown",
+			x: 1907,
+			y: 1747
+		},
+		{
+			Name: "Jamestown",
+			x: 2014,
+			y: 1857
+		},
+		{
+			Name: "Stanley",
+			x: 1367,
+			y: 2433
+		},
+		{
+			Name: "Malé",
+			x: 2982,
+			y: 1589
+		},
+		{
+			Name: "Manama",
+			x: 2706,
+			y: 1286
+		},
+		{
+			Name: "Beirut",
+			x: 2523,
+			y: 1173
+		},
+		{
+			Name: "Gibraltar",
+			x: 2021,
+			y: 1140
+		},
+		{
+			Name: "Douglas",
+			x: 2033,
+			y: 832
+		},
+		{
+			Name: "Tórshavn",
+			x: 2004,
+			y: 666
+		},
+		{
+			Name: "Mariehamn",
+			x: 2330,
+			y: 713
+		},
+		{
+			Name: "Ngerulmud",
+			x: 3732,
+			y: 1543
+		},
+		{
+			Name: "Agana",
+			x: 3854,
+			y: 1462
+		},
+		{
+			Name: "Palikir",
+			x: 4014,
+			y: 1549
+		},
+		{
+			Name: "Vaiaku",
+			x: 4281,
+			y: 1761
+		},
+		{
+			Name: "Atafu",
+			x: 4394,
+			y: 1770
+		},
+		{
+			Name: "Hamilton",
+			x: 1283,
+			y: 1203
+		},
+		{
+			Name: "Majuro",
+			x: 4184,
+			y: 1525
+		},
+		{
+			Name: "Avarua",
+			x: 99,
+			y: 1928
+		},
+		{
+			Name: "Hanga Roa",
+			x: 727,
+			y: 2013
+		},
+		{
+			Name: "Papeete",
+			x: 232,
+			y: 1882
+		},
+		{
+			Name: "Apia",
+			x: 4395,
+			y: 1834
+		},
+		{
+			Name: "Alofi",
+			x: 4415,
+			y: 1900
+		},
+		{
+			Name: "Nuku‘alofa",
+			x: 4350,
+			y: 1928
+		},
+		{
+			Name: "Pago Pago",
+			x: 4406,
+			y: 1840
+		},
+		{
+			Name: "Mata Utu",
+			x: 4338,
+			y: 1824
+		},
+		{
+			Name: "Port Vila",
+			x: 4147,
+			y: 1883
+		},
+		{
+			Name: "Denigomodu",
+			x: 4124,
+			y: 1650
+		},
+		{
+			Name: "South Tarawa",
+			x: 4201,
+			y: 1624
+		},
+		{
+			Name: "Capitol Hill",
+			x: 3867,
+			y: 1439
+		},
+		{
+			Name: "Saint Helier",
+			x: 2060,
+			y: 924
+		},
+		{
+			Name: "Amman",
+			x: 2525,
+			y: 1203
+		},
+		{
+			Name: "Jerusalem",
+			x: 2517,
+			y: 1208
+		},
+		{
+			Name: "Doha",
+			x: 2718,
+			y: 1301
+		},
+		{
+			Name: "Kuwait City",
+			x: 2672,
+			y: 1243
+		},
+		{
+			Name: "Moroni",
+			x: 2613,
+			y: 1806
+		},
+		{
+			Name: "Victoria",
+			x: 2762,
+			y: 1708
+		},
+		{
+			Name: "Port Louis",
+			x: 2792,
+			y: 1918
+		},
+		{
+			Name: "Saint Denis",
+			x: 2767,
+			y: 1929
+		},
+		{
+			Name: "Mamoudzou",
+			x: 2638,
+			y: 1820
+		},
+		{
+			Name: "King Edward Point",
+			x: 1620,
+			y: 2486
+		},
+		{
+			Name: "Saint John’s",
+			x: 1329,
+			y: 1416
+		},
+		{
+			Name: "Basse-Terre",
+			x: 1329,
+			y: 1430
+		},
+		{
+			Name: "Castries",
+			x: 1338,
+			y: 1459
+		},
+		{
+			Name: "Willemstad",
+			x: 1238,
+			y: 1483
+		},
+		{
+			Name: "Kampala",
+			x: 2484,
+			y: 1641
+		},
+		{
+			Name: "Laayoune",
+			x: 1927,
+			y: 1273
+		},
+		{
+			Name: "Macau",
+			x: 3478,
+			y: 1343
+		},
+		{
+			Name: "Kingstown",
+			x: 1335,
+			y: 1469
+		},
+		{
+			Name: "Bridgetown",
+			x: 1355,
+			y: 1470
+		},
+		{
+			Name: "Saint George's",
+			x: 1329,
+			y: 1484
+		},
+		{
+			Name: "Port of Spain",
+			x: 1329,
+			y: 1504
+		},
+		{
+			Name: "Fort-de-France",
+			x: 1338,
+			y: 1450
+		},
+		{
+			Name: "Cockburn Town",
+			x: 1208,
+			y: 1357
+		},
+		{
+			Name: "George Town",
+			x: 1085,
+			y: 1388
+		},
+		{
+			Name: "Saint-Pierre",
+			x: 1394,
+			y: 971
+		},
+	],
+	
+	name: Earth
+}
