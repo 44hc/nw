@@ -36,9 +36,19 @@ h1 {
 }
 
 .logo {
+    border-radius: 5px;
     content: url(../assets/logo_03.png);
     float: right;
+    padding: 5px;
     width: 100px;
+}
+
+.logo-button {
+    display: block;
+}
+
+.logo:hover {
+    background-color: #f4f4f425;
 }
 
 .nw {
