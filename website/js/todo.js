@@ -92,7 +92,7 @@ function render() {
     }
 
     if (completedTodos.length > 0) {
-        completedTodosDiv.innerHTML = `<div class='completed-title'>Completed (${completedTodos.length} / ${todoItems.length})</div>`
+        completedTodosDiv.innerHTML = `<div class='completed-title'>Completed (${completedTodos.length}/${todoItems.length})</div>`
 
         completedTodos.forEach(todo => {
             completedTodosDiv.append(createTodoElement(todo))
